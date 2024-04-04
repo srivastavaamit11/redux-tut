@@ -1,0 +1,10 @@
+when we are making a react app we need to define the following folder structure
+
+-> components
+-> Containers -> it will connect component and service.
+Service
+    Actions
+    Reducers
+    Constants
+
+we are making an intermediate component for example home component 
